@@ -21,7 +21,7 @@
 - (2017/04/01 〜) 三菱総研DCS株式会社 に入社
   - 銀行CMSシステムの保守開発、保守を担当(2017/07〜2019/10)
      - 開発規模 : チームメンバ:8〜12名、開発期間 : 4〜9ヶ月(4案件を担当)
-     - 開発言語&環境 : JavaSE6、Eclipse、HTML、Linux(RedHat)、Oracle SQL
+     - 開発言語&環境 : JavaSE6、Eclipse、HTML5、Linux(RedHat)、Oracle SQL
      - やったこと
        - 基本設計から結合テストまで担当（waterfall model）
        - 顧客環境へのシステム導入、保守、移行作業
