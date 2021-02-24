@@ -32,7 +32,7 @@
      - 開発規模 チームメンバ:6名
      - 開発環境 : RPA(Kofax Kapow ver10.2&10.5)、HTML5、OracleSQL、SQLServer
      - やったこと
-       - RPAバージョンアップ検証（Kofax Kapow9.6→10.5）
+       - RPAバージョンアップ検証（Kofax Kapow10.2→10.5）
        - 障害原因調査
        - エンドユーザへの説明資料などのドキュメント作成
           
